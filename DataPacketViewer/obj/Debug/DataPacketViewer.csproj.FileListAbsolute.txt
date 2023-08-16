@@ -1,0 +1,11 @@
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\bin\Debug\DataPacketViewer.exe.config
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\bin\Debug\DataPacketViewer.exe
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\bin\Debug\DataPacketViewer.pdb
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.csproj.AssemblyReference.cache
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.Properties.Resources.resources
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.csproj.GenerateResource.cache
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.csproj.CoreCompileInputs.cache
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.exe
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.pdb
+C:\Users\Otavi\Documents\SW\CS\DataPacketViewer\DataPacketViewer\obj\Debug\DataPacketViewer.CodeDecodeForm.resources
